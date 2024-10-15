@@ -1,0 +1,14 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.project_smoos_wali_siswa",
+        "sha256_cert_fingerprints": [
+          "8A:03:AF:5B:7A:36:16:5F:A1:C0:A5:B3:BE:27:C9:45:51:5F:81:BA:9E:DC:B6:4C:3B:32:AB:4F:09:4F:F4:C6"
+        ]
+      }
+    }
+  ]
